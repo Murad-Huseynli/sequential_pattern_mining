@@ -79,23 +79,9 @@ Each algorithm can be tested with different dataset parameters to evaluate perfo
 - [ ] Add more sequential pattern mining algorithms
 - [ ] Create a comprehensive library with stable algorithms
 
-## Contributing
-
-Project Contributors:
-* Murad Huseynli (14297)
-* Emil Inochkin (16285)
-* Amir Adamov (5055)
-
 ## License
 
-Research project conducted at ADA University, School of Information Technologies and Engineering.
-
-## Contact
-
-School of Information Technologies and Engineering  
-ADA University  
-Data Mining (CSCI4700)  
-Spring 2023
+Research project conducted at ADA University, School of Information Technologies and Engineering. See more under `LICENSE.txt`
 
 ## Acknowledgments
 
